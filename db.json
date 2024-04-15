@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "2",
+      "name": "Casual Shirt",
+      "price": "70",
+      "category": "Fashion"
+    },
+    {
+      "id": "3",
+      "name": "Denim Shirt",
+      "price": "60",
+      "category": "Fashion"
+    },
+    {
+      "id": "4",
+      "name": "jeans",
+      "price": "29",
+      "category": "Fashion"
+    },
+    {
+      "id": "1712855837048",
+      "name": "Formal shirts",
+      "price": "500",
+      "category": "Mens shirts"
+    }
+  ]
+}
